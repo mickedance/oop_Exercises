@@ -8,6 +8,8 @@ import java.util.Scanner;
  */
 public class App {
     public static void main(String[] args) {
+        System.out.println("####OOP Topic #####");
+        
         // Ex1
         System.out.println("####EXERCISE 1 #####");
 
